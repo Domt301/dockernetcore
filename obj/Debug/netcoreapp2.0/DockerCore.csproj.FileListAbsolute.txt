@@ -1,0 +1,12 @@
+/Users/dom/Desktop/Git/DockerCore/bin/Debug/netcoreapp2.0/DockerCore.deps.json
+/Users/dom/Desktop/Git/DockerCore/bin/Debug/netcoreapp2.0/DockerCore.runtimeconfig.json
+/Users/dom/Desktop/Git/DockerCore/bin/Debug/netcoreapp2.0/DockerCore.runtimeconfig.dev.json
+/Users/dom/Desktop/Git/DockerCore/bin/Debug/netcoreapp2.0/DockerCore.dll
+/Users/dom/Desktop/Git/DockerCore/bin/Debug/netcoreapp2.0/DockerCore.pdb
+/Users/dom/Desktop/Git/DockerCore/obj/Debug/netcoreapp2.0/DockerCore.csproj.CoreCompileInputs.cache
+/Users/dom/Desktop/Git/DockerCore/obj/Debug/netcoreapp2.0/DockerCore.AssemblyInfoInputs.cache
+/Users/dom/Desktop/Git/DockerCore/obj/Debug/netcoreapp2.0/DockerCore.AssemblyInfo.cs
+/Users/dom/Desktop/Git/DockerCore/obj/Debug/netcoreapp2.0/DockerCore.dll
+/Users/dom/Desktop/Git/DockerCore/obj/Debug/netcoreapp2.0/DockerCore.pdb
+/Users/dom/Desktop/Git/DockerCore/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/dom/Desktop/Git/DockerCore/obj/Debug/netcoreapp2.0/DockerCore.csprojResolveAssemblyReference.cache
